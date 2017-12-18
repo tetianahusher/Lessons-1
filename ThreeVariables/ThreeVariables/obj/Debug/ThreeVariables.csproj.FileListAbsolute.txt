@@ -1,0 +1,7 @@
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\bin\Debug\ThreeVariables.exe.config
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\bin\Debug\ThreeVariables.exe
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\bin\Debug\ThreeVariables.pdb
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\obj\Debug\ThreeVariables.csprojResolveAssemblyReference.cache
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\obj\Debug\ThreeVariables.csproj.CoreCompileInputs.cache
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\obj\Debug\ThreeVariables.exe
+D:\TAQC\HW\sharp\Task1\ThreeVariables\ThreeVariables\obj\Debug\ThreeVariables.pdb

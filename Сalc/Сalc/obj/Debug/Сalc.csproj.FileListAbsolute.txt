@@ -1,0 +1,7 @@
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\bin\Debug\Сalc.exe.config
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\bin\Debug\Сalc.exe
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\bin\Debug\Сalc.pdb
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\obj\Debug\Сalc.csprojResolveAssemblyReference.cache
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\obj\Debug\Сalc.csproj.CoreCompileInputs.cache
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\obj\Debug\Сalc.exe
+D:\TAQC\HW\sharp\Task1\Сalc\Сalc\obj\Debug\Сalc.pdb

@@ -1,0 +1,6 @@
+D:\TAQC\HW\sharp\Task1\HW1\HW1\bin\Debug\HW1.exe.config
+D:\TAQC\HW\sharp\Task1\HW1\HW1\bin\Debug\HW1.exe
+D:\TAQC\HW\sharp\Task1\HW1\HW1\bin\Debug\HW1.pdb
+D:\TAQC\HW\sharp\Task1\HW1\HW1\obj\Debug\HW1.csproj.CoreCompileInputs.cache
+D:\TAQC\HW\sharp\Task1\HW1\HW1\obj\Debug\HW1.exe
+D:\TAQC\HW\sharp\Task1\HW1\HW1\obj\Debug\HW1.pdb

@@ -1,0 +1,6 @@
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\bin\Debug\QuestionAnswer.exe.config
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\bin\Debug\QuestionAnswer.exe
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\bin\Debug\QuestionAnswer.pdb
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\obj\Debug\QuestionAnswer.csproj.CoreCompileInputs.cache
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\obj\Debug\QuestionAnswer.exe
+D:\TAQC\HW\sharp\Task1\QuestionAnswer\QuestionAnswer\obj\Debug\QuestionAnswer.pdb

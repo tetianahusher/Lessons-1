@@ -1,0 +1,6 @@
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.exe.config
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.exe
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\bin\Debug\PositiveOrNot.pdb
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.csproj.CoreCompileInputs.cache
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.exe
+D:\TAQC\HW\sharp\Task1\PositiveOrNot\PositiveOrNot\obj\Debug\PositiveOrNot.pdb
